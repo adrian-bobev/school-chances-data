@@ -1,0 +1,12 @@
+{
+    "name": "kg-chances-data",
+    "version": "0.1.0",
+    "description": "Fetching data from kg.sofia.bg",
+    "main": "index.js",
+    "scripts": {
+      "build": "node index.js"
+    },
+    "author": "",
+    "license": "MIT"
+  }
+  
